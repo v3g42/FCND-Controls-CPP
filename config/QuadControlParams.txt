@@ -26,7 +26,7 @@ KiPosZ = 40
 # Velocity control gains
 # the velocity gain (kpVelXY and kpVelZ) should be at least ~3-4 times
 # greater than the respective position gain (kpPosXY and kpPosZ)
-kpVelXY = 8
+kpVelXY = 12
 kpVelZ = 15
 
 # Angle control gains
